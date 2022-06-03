@@ -1,0 +1,17 @@
+Enlace al portfolio:
+https://camiletb.notion.site/SIM-2022-bca17997345947a9912ee009b6c92027
+
+Ejercicios:
+- [x]  Montaña rusa v
+- [x]  Montaña rusa a
+- [x]  Bola alrededor de punto
+- [ ]  Oscilador
+- [x]  Bubble-Shooter
+- [x]  Excel
+    - [x]  Paracaidista
+    - [x]  Ejercicio métodos
+- [x]  Tiro parabólico
+- [x]  Plano inclinado
+- [x]  Muelle 1
+- [x]  Muelle 2
+- [ ]  Coche
